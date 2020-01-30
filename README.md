@@ -1,4 +1,3 @@
-# CognitoFacebookGmail
-Piece for authentication on Facebook and email through AWS
+Proyect with AWS Cognito and Passport-Facebook
 
-Need Only **Npm Install**
+### `npm install`
